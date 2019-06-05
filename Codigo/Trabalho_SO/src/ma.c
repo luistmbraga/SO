@@ -184,7 +184,7 @@ void alteraPrecoArtigo(char* path, int id, char* preco){
 				
 				size_t nstrings;
 				char** lista = strsplit(buffer, " ", &nstrings);
-				strcat(refchar, lista[0]);
+				strcpy(refchar, lista[0]);
 				strcat(refchar, " ");
 				strcat(refchar, preco);
 				int espacos = strlen(lista[1]) - strlen(preco);
