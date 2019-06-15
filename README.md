@@ -3,4 +3,4 @@
 Repositório para o trabalho prático da UC Sistemas Operativos
 
 
-Nota: valores
+Nota: 13 valores
