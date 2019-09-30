@@ -4,6 +4,6 @@ Repositório para o trabalho prático da UC Sistemas Operativos
 
 
 Comentários:
- nota máxima sem aspectos valorizados: 14
+ nota máxima sem aspectos valorizados: 13
 
 Nota: 13 valores
